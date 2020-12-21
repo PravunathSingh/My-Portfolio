@@ -1,0 +1,130 @@
+@import url("https://fonts.googleapis.com/css2?family=Jost&family=PT+Mono&display=swap");
+
+body {
+  background-color: #0a0b0f !important;
+  font-family: "Jost", sans-serif;
+}
+
+img.img-fluid {
+  border-radius: 50%;
+}
+
+nav {
+  font-family: "PT Mono";
+}
+
+#name {
+  font-size: 2.5rem;
+  font-family: "PT Mono";
+}
+
+#about {
+  font-size: 2.5rem;
+  font-family: "PT Mono";
+}
+
+#about-description {
+  font-size: 1.3rem;
+}
+
+#hobbies-heading {
+  font-size: 2.5rem;
+  font-family: "PT Mono";
+}
+
+.hobbies-text {
+  font-size: 1.3rem;
+}
+
+.skills-text {
+  font-size: 1.2rem;
+}
+
+.skills-heading1 {
+  padding: 10px 10px;
+  background: rgb(255, 193, 7, 0.2);
+  border-radius: 10px;
+  width: 150px;
+}
+.skills-heading2 {
+  padding: 10px 10px;
+  background: rgb(23, 162, 184, 0.2);
+  border-radius: 10px;
+  width: 150px;
+}
+.skills-heading3 {
+  padding: 10px 10px;
+  background: rgb(40, 167, 56, 0.2);
+  border-radius: 10px;
+  width: 150px;
+}
+.skills-heading4 {
+  padding: 10px 10px;
+  background: rgb(125, 11, 15, 0.2);
+  border-radius: 10px;
+  width: 150px;
+}
+
+.list-group {
+  background-color: #0a0b0f !important;
+}
+.list-group-item {
+  background-color: #0a0b0f !important;
+  font-size: 1.3rem;
+}
+
+.skill-head {
+  font-size: 2.5rem;
+  font-family: "PT Mono";
+}
+
+#main-footer {
+  font-size: 1.3rem;
+  font-family: "PT Mono";
+  background-color: #0f1018 !important;
+}
+
+.work-header {
+  background-color: #0f1018 !important;
+  color: aqua;
+}
+.work-body {
+  background-color: #0f1018 !important;
+  color: white;
+}
+.work-footer {
+  background-color: #0f1018 !important;
+  color: white;
+}
+
+.work {
+  font-size: 2.5rem;
+  font-family: "PT Mono";
+}
+
+.project-header {
+  background: rgb(23, 162, 184, 0.2);
+}
+.project-header1 {
+  background: rgb(40, 167, 56, 0.2);
+}
+.project-header2 {
+  background: rgb(125, 11, 15, 0.2);
+}
+
+.project-body {
+  background-color: #0f1018 !important;
+  color: white !important;
+}
+.project-footer {
+  background-color: #0f1018 !important;
+}
+
+.p-text {
+  font-size: 1.3rem;
+}
+
+.contact-header {
+  font-size: 2.5rem;
+  font-family: "PT Mono";
+}
